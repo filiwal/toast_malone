@@ -1,9 +1,9 @@
 img {
-    width: 200px;
+    width: 250px;
 }
 body {
     text-align: center;
     font-family: Arial;
-    background: azure;
+    background: rgb(132, 218, 218);
     color: purple;
 }
